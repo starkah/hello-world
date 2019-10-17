@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first repository.
+I'm really excited to learn about open source development.
